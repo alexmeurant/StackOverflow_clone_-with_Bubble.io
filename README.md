@@ -1,4 +1,4 @@
-# StackOverflow_clone_-with_Bubble.io
+# StackOverflow_clone_with_Bubble.io
 A Stack exchange app built with ``Bubble.io`` from scratch (AirDev Bootcamp course).
 
 In this project, I have learned how to ``use a form`` to create and edit, ``option sets``, ``search filters`` and ``URL parameters``.
